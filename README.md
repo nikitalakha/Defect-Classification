@@ -12,11 +12,11 @@ It aims to classify surface defects in stainless steel plates using machine lear
 - Data Normalization: Min-Max normalization significantly improved the model's accuracy by balancing the feature scales.
 - Bayes Classifier: The Bayes classifier demonstrated competitive performance, highlighting the importance of understanding data distribution for effective classification.
 
-**Implications:
-**The project provides insights into fault classification and emphasizes the significance of data preprocessing and model evaluation. The chosen model can be deployed for real-world applications in industries for automated defect detection in steel plates, enhancing quality control and safety.
+**Implications:**
+The project provides insights into fault classification and emphasizes the significance of data preprocessing and model evaluation. The chosen model can be deployed for real-world applications in industries for automated defect detection in steel plates, enhancing quality control and safety.
 
-**Limitations:
-**- Generalization: The model's generalizability to other datasets and scenarios requires further assessment.
+**Limitations:**
+- Generalization: The model's generalizability to other datasets and scenarios requires further assessment.
 - Data Confidentiality: The confidentiality of the 27 indicators underscores the importance of handling sensitive data in real-world applications.
 
 Overall, this exemplifies the application of machine learning for practical problem-solving and emphasizes the importance of model selection, data normalization, and result analysis in building accurate predictive models.
